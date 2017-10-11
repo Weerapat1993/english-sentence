@@ -2,5 +2,5 @@
 
 ## Content
 
-* [Tense](./Tense.md)
-* [Sentence Maker](./SentenseMaker.md)
+* [Tense](./English/Tense.md)
+* [Sentence Maker](./English/SentenseMaker.md)
