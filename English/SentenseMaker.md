@@ -5,9 +5,10 @@
 `What is difference between 'a' and 'b'` // ความแตกต่างระหว่าง 'a' และ 'b'
 ```
 
-**การใช้ should have**
+**การใช้ should have, may be**
 ```js
 `You should have ...` // คุณน่าจะ ...
+`I may go to ...` // ฉันอาจจะไป ...
 ```
 
 **การใช้ want to, need to, have to, must**
@@ -29,6 +30,32 @@
 ```js
 `You are't allowed to use ...` // ไม่อนุญาติให้คุณใช้ ...
 `You are allowed to use ...` // อนุญาติให้คุณใช้ ...
+```
+
+**การใช้ If cause**
+
+* Zero conditional - เหตุการณ์ที่เป็นจริงเสมอ
+
+```js
+If Present Simple + Present Simple
+```
+
+* First conditional - เหตุการณ์ที่เกิดขึ้นในอนาคต
+
+```js
+If Present Simple + Present Feature
+```
+
+* Second conditional - เหตุการณ์ที่เป็นไปไม่ได้ 
+
+```js
+If Past Simple + Past Simple
+```
+
+* Third condtional - เหตุการณ์ที่เป็นไปไม่ได้ในอดีต
+
+```js
+If Past Perfect + Past Perfect
 ```
 
 **ประโยคพื้นฐาน**
